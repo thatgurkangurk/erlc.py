@@ -1,4 +1,6 @@
-# erlc.py
+# erlc-rbx
+
+>  **why the name `erlc.py` for the repository?** this project was originally called `erlc.py`, however that name was taken on PyPI so `erlc-rbx` was the final name chosen.
 
 a (better and open-source) python wrapper for the ERLC api.
 

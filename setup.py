@@ -2,7 +2,7 @@ import pathlib
 import setuptools
 
 setuptools.setup(
-    name="erlc.py",
+    name="erlc-rbx",
     version="0.1.0",
     description="a better (and open-source) wrapper for the ERLC api.",
     long_description=pathlib.Path("README.md").read_text(),
